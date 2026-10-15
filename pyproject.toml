@@ -4,7 +4,7 @@ target-version = "py310"
 
 extend-exclude = [
     ".setup/CONFIGURE_SUBMITTY.py",
-    ".setup/bin/code_watcher.py",
+    ".setup/bin/code_watcher.py",TEST
     ".setup/bin/init_auto_rainbow.py",
     ".setup/bin/input_forum_data.py",
     ".setup/bin/reset_system.py",
